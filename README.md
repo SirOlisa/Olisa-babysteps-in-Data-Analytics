@@ -1,4 +1,5 @@
-[Uploading Financial Sample.xlsx…]()
+[Financial Sample.xlsx](https://github.com/SirOlisa/Olisa-babysteps-in-Data-Analytics/files/8908268/Financial.Sample.xlsx)
+
 
 # Olisa-babysteps-in-Data-Analytics
 ----
